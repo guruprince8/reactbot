@@ -1,0 +1,29 @@
+body {
+    line-height: 1;
+}
+
+#movieinfo{
+    display: none;
+}
+.border-line-bottom {
+    border-bottom: 1px solid rgb(239, 243, 244);;
+}
+
+.container-home {
+    /*border-left: 1px solid grey;
+    border-right: 1px solid grey; */
+    max-width: 300px;
+
+}
+.col-rounded {
+    border-radius: 2px;
+    border:1px solid rgb(239, 243, 244);
+}
+.post-row {
+    margin-bottom: 5px;
+}
+.col-content {
+    /* border-left:1px solid rgb(239, 243, 244);
+    border-right:1px solid rgb(239, 243, 244);
+    */
+}
